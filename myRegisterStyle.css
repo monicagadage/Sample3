@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+.enrollment-whole{
+	align-content: center;
+	page: auto;
+	
+	
+}
+.body{
+	
+	background-image: url('http://localhost:9092/Adminstration_Application/LTIlogo.jpg');
+}
+
+.note{
+	
+	
+	 font-style: italic;
+	}
+.form-fields{
+	
+width: 100%;
+padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;	
+}
+
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.form{
+	align:centre;
+}

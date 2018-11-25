@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+.invalid{
+	background-image: url('http://localhost:9092/Adminstration_Application/New-Technology.jpg');
+}
+.tryagain{
+	background-image: url('http://localhost:9092/Adminstration_Application/New-Technology.jpg');
+}
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+* {
+    box-sizing: border-box;
+}
+
+.homepage {
+  margin: 0;
+  background-image: url('http://localhost:9092/Adminstration_Application/lntoldlogo.jpg');
+}
+
+/* Style the header */
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    background-image: url('http://localhost:9092/Adminstration_Application/ltiinfotech.jpg');
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+    align-content: center;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    align-content: center;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
